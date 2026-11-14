@@ -269,7 +269,6 @@ scenario_results = simulate_capacity(
 
 display(scenario_results)
 
-!pip -q install gradio
 
 import gradio as gr
 import pandas as pd
@@ -800,4 +799,5 @@ with gr.Blocks(title="CareFlow AI – Dashboard") as app_v3:
     It does not make clinical decisions or prioritize patients.
     """)
 
-app_v3.launch(share=True)
+if __name__ == "__main__":
+    app_v3.launch()
