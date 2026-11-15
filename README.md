@@ -42,3 +42,15 @@ This project uses simulated data for demonstration purposes only. It is not a cl
 
 CareFlow AI is an experimental prototype
 developed using Python and Gradio.
+
+
+Credits & Acknowledgements
+
+* Python: Programming language – https://www.python.org/
+* Pandas: Data processing and analysis – https://pandas.pydata.org/
+* Gradio: Interactive dashboard – https://www.gradio.app/
+* Google Colab: Development environment – https://colab.research.google.com/
+* ChatGPT (OpenAI): AI-assisted coding guidance and debugging – https://chatgpt.com/
+* Dataset: Simulated demonstration data created for this project.
+* Pretrained models: None used.
+
