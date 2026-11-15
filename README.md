@@ -1,5 +1,28 @@
-# Careflow-ai-
-CareFlow AI is an experimental hospital coordination platform that identifies operational bottlenecks, detects missing handover information and simulates hospital capacity changes through data-driven analysis and an interactive dashboard.
+# CareFlow AI – Intelligent Hospital Coordination System
+
+CareFlow AI is an experimental prototype exploring how AI-supported analysis can help identify operational bottlenecks, missing handover information, and hospital capacity constraints.
+
+Features
+
+* Hospital operations overview
+* Data integration and quality analysis
+* Bottleneck detection
+* Missing handover information analysis
+* Interactive hospital capacity simulation
+
+Technology
+
+* Python
+* Pandas
+* Gradio
+
+Demo
+
+An interactive demonstration link will be provided here.
+
+Important Notice
+
+This project uses simulated data for demonstration purposes only. It is not a clinically validated system and does not provide diagnoses, patient triage, or clinical decision-making.
 
 ## Installation
 
