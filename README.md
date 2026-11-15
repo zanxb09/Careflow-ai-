@@ -18,7 +18,7 @@ Technology
 
 Demo
 
-An interactive demonstration link will be provided here.
+[Launch the interactive CareFlow AI Demo](https://b611f40678650fbcac.gradio.live/)
 
 Important Notice
 
